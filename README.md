@@ -1,2 +1,2 @@
 # Stable_Diffusion
-Material sobre Stable Diffusion como exemplo sobre Generative AI para as lives do ON da FIAP
+Material sobre Generative AI com exemplos das técnicas de GAN (Generative Adversarial Network) e Stable Diffusion para as lives do ON da FIAP
